@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes historical aviation accident data to identify low-risk aircraft types for commercial and private acquisition. The goal is to provide data-driven recommendations to support strategic investment decisions in the aviation sector.
 
-**[Explore the Interactive Power BI Dashboard]([InteractiveDashBoard.pbix](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare))**
+**[Explore the Interactive Power BI Dashboard]([InteractiveDashBoard.pbix](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare)**
 
 ## Business Understanding
 
