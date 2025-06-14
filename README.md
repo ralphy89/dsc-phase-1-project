@@ -38,19 +38,13 @@ Key features selected for analysis:
 ### Data Visualizations
 
 1. **Trend of Aircraft Incidents Over Time**
-   - Shows how incident rates have evolved from 1962-2023
-   - Reveals whether overall risk has increased or decreased
-   - Helps identify patterns related to industry regulations and technological advancements
+[![Trend of Aircraft Incident Over Time](https://example.com/path-to-screenshot.png)]
 
-2. **Aircraft Risk by Manufacturer**
-   - Compares accident rates across different aircraft manufacturers
-   - Visualizes which brands have the best safety records
-   - Helps identify potentially safer manufacturers
+2. **Aircraft Damage Severity Distribution**
+  
 
 3. **Accident Severity by Engine Type**
-   - Analyzes whether single vs. multi-engine aircraft show different risk profiles
-   - Examines how different engine technologies correlate with incident severity
-   - Provides insights into engine-related safety factors
+  
 
 ## Power BI Dashboard
 [![Power BI Dashboard Screenshot](https://example.com/path-to-screenshot.png)](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare)
