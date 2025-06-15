@@ -77,3 +77,11 @@ Based on the analysis, three aircraft models are recommended for acquisition due
 - Low accident rates
 - Minimal severe outcomes when accidents occur
 - Reliability across different flight conditions
+
+---
+## 📎 Project Files
+
+- 📘 [Jupyter Notebook: working_notebook.ipynb](./working_notebook.ipynb)
+- 📊 [Presentation Slides: presentation.pdf](./presentation.pdf)
+- :chart_with_upwards_trend: [Interactive dashboard: InteractiveDashBoard.pbix](./InteractiveDashBoard.pbix)
+- :open_file_folder: [Dataset: Aviation_Data.csv](data/Aviation_Data.csv)
