@@ -54,7 +54,7 @@ Key features selected for analysis:
 
 
 ## Power BI Dashboard
-[![Power BI Dashboard Screenshot](https://example.com/path-to-screenshot.png)](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare)
+[![Power BI Dashboard Screenshot](images/dashboard.jpeg)](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare)
 
 Explore the interactive version of these visualizations and more in our [Power BI Dashboard](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare). The dashboard allows you to:
 
