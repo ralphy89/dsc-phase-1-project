@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes historical aviation accident data to identify low-risk aircraft types for commercial and private acquisition. The goal is to provide data-driven recommendations to support strategic investment decisions in the aviation sector.
 
-**[Explore the Interactive Power BI Dashboard]([InteractiveDashBoard.pbix](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare)**
+**[Explore the Interactive Power BI Dashboard](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare)**
 
 ## Business Understanding
 
@@ -38,13 +38,20 @@ Key features selected for analysis:
 ### Data Visualizations
 
 1. **Trend of Aircraft Incidents Over Time**
-[![Trend of Aircraft Incident Over Time](https://example.com/path-to-screenshot.png)]
+![Trend of Aircraft Incident Over Time](images/trend_aircraft_overtime.jpeg)
+
 
 2. **Aircraft Damage Severity Distribution**
-  
+![Trend of Aircraft Incident Over Time](images/damage.jpeg)
+
 
 3. **Accident Severity by Engine Type**
-  
+![Trend of Aircraft Incident Over Time](images/engine.jpeg)
+
+
+4. **Top 10 safest models (high uninjured, low injuries)**
+![Trend of Aircraft Incident Over Time](images/10_recommended.jpeg)
+
 
 ## Power BI Dashboard
 [![Power BI Dashboard Screenshot](https://example.com/path-to-screenshot.png)](https://app.powerbi.com/links/sTnYlAofIH?ctid=9e87e1a8-637b-44a1-8ca9-21475ab458a7&pbi_source=linkShare)
